@@ -1,0 +1,6 @@
+2020-03-15 21:55:57: <trace> A trace severity message
+2020-03-15 21:55:57: <debug> A debug severity message
+2020-03-15 21:55:57: <info> An informational severity message
+2020-03-15 21:55:57: <warning> A warning severity message
+2020-03-15 21:55:57: <error> An error severity message
+2020-03-15 21:55:57: <fatal> A fatal severity message

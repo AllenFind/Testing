@@ -1,0 +1,3 @@
+= you need to set the -lboost_log-mt to make your code run
+
+* you need to set -lboost_log_setup-mt
