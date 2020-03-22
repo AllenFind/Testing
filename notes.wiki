@@ -1,3 +1,10 @@
 = you need to set the -lboost_log-mt to make your code run
 
 * you need to set -lboost_log_setup-mt
+
+Build the shared libs and added for other lib.http://amb-alm-ubu/polarion/#/project/CV2A_ARCH/wiki/Requirements/CV2A%20IDSP%20Architecture
+
+* 0322 plan
+1. finish the string execise
+2. finish the vector execise 
+
