@@ -59,6 +59,10 @@ int main(int, char*[])
 
     using namespace logging::trivial;
     src::severity_logger< severity_level > lg;
+		logging::core::get()->set_filter
+			(
+				logging::trivial::severity >= logging::trivial::info
+			);
 
     BOOST_LOG_SEV(lg, trace) << "A trace severity message";
     BOOST_LOG_SEV(lg, debug) << "A debug severity message";

@@ -31,9 +31,9 @@ int upper_power_of_two(int v)
 
 int main()
 {
-	std::cout<<"the 128 is "<<round_up_128(33)<<std::endl;
+	std::cout<<"the 128 is "<<round_up_128(128)<<std::endl;
 	std::cout<<"the 69 is "<<round_up_32(69)<<std::endl;	
 	std::cout<<"the 8 is "<<round_up_8(69)<<std::endl;
-	std::cout<<"the 18 is "<<upper_power_of_two(18)<<std::endl;
+	std::cout<<"the 32 is "<<upper_power_of_two(32)<<std::endl;
 	return 0;
 }
