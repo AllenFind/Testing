@@ -1,0 +1,90 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/e87283a/
+AddHr	operator_overload.cc	/^void Time::AddHr(int h)$/;"	f	class:Time	typeref:typename:void
+AddMin	operator_overload.cc	/^void Time::AddMin(int m)$/;"	f	class:Time	typeref:typename:void
+B	runtime.cc	/^#define B /;"	d	file:
+BOOST_LOG_DYN_LINK	test2.cc	/^#define BOOST_LOG_DYN_LINK /;"	d	file:
+CFBundleDevelopmentRegion	macro.dSYM/Contents/Info.plist	/^		<key>CFBundleDevelopmentRegion<\/key>$/;"	k
+CFBundleDevelopmentRegion	runtime.dSYM/Contents/Info.plist	/^		<key>CFBundleDevelopmentRegion<\/key>$/;"	k
+CFBundleDevelopmentRegion	test.dSYM/Contents/Info.plist	/^		<key>CFBundleDevelopmentRegion<\/key>$/;"	k
+CFBundleIdentifier	macro.dSYM/Contents/Info.plist	/^		<key>CFBundleIdentifier<\/key>$/;"	k
+CFBundleIdentifier	runtime.dSYM/Contents/Info.plist	/^		<key>CFBundleIdentifier<\/key>$/;"	k
+CFBundleIdentifier	test.dSYM/Contents/Info.plist	/^		<key>CFBundleIdentifier<\/key>$/;"	k
+CFBundleInfoDictionaryVersion	macro.dSYM/Contents/Info.plist	/^		<key>CFBundleInfoDictionaryVersion<\/key>$/;"	k
+CFBundleInfoDictionaryVersion	runtime.dSYM/Contents/Info.plist	/^		<key>CFBundleInfoDictionaryVersion<\/key>$/;"	k
+CFBundleInfoDictionaryVersion	test.dSYM/Contents/Info.plist	/^		<key>CFBundleInfoDictionaryVersion<\/key>$/;"	k
+CFBundlePackageType	macro.dSYM/Contents/Info.plist	/^		<key>CFBundlePackageType<\/key>$/;"	k
+CFBundlePackageType	runtime.dSYM/Contents/Info.plist	/^		<key>CFBundlePackageType<\/key>$/;"	k
+CFBundlePackageType	test.dSYM/Contents/Info.plist	/^		<key>CFBundlePackageType<\/key>$/;"	k
+CFBundleShortVersionString	macro.dSYM/Contents/Info.plist	/^		<key>CFBundleShortVersionString<\/key>$/;"	k
+CFBundleShortVersionString	runtime.dSYM/Contents/Info.plist	/^		<key>CFBundleShortVersionString<\/key>$/;"	k
+CFBundleShortVersionString	test.dSYM/Contents/Info.plist	/^		<key>CFBundleShortVersionString<\/key>$/;"	k
+CFBundleSignature	macro.dSYM/Contents/Info.plist	/^		<key>CFBundleSignature<\/key>$/;"	k
+CFBundleSignature	runtime.dSYM/Contents/Info.plist	/^		<key>CFBundleSignature<\/key>$/;"	k
+CFBundleSignature	test.dSYM/Contents/Info.plist	/^		<key>CFBundleSignature<\/key>$/;"	k
+CFBundleVersion	macro.dSYM/Contents/Info.plist	/^		<key>CFBundleVersion<\/key>$/;"	k
+CFBundleVersion	runtime.dSYM/Contents/Info.plist	/^		<key>CFBundleVersion<\/key>$/;"	k
+CFBundleVersion	test.dSYM/Contents/Info.plist	/^		<key>CFBundleVersion<\/key>$/;"	k
+CHANGEABLE_VALUE	macro.cc	/^#define CHANGEABLE_VALUE /;"	d	file:
+Date	overloading.cc	/^		Date(int m, int d, int y)$/;"	f	class:Date	file:
+Date	overloading.cc	/^class Date$/;"	c	file:
+Reset	operator_overload.cc	/^void Time::Reset(int h, int m)$/;"	f	class:Time	typeref:typename:void
+Show	operator_overload.cc	/^void Time::Show() const$/;"	f	class:Time	typeref:typename:void
+Sum	operator_overload.cc	/^Time Time::Sum(const Time& t ) const$/;"	f	class:Time	typeref:typename:Time
+Time	operator_overload.cc	/^Time::Time ()$/;"	f	class:Time
+Time	operator_overload.cc	/^Time::Time(int h, int m)$/;"	f	class:Time
+Time	operator_overload.h	/^class Time$/;"	c
+UNCHANGEABLE_VALUE	macro.cc	/^#define UNCHANGEABLE_VALUE /;"	d	file:
+critical	own_logger.cc	/^	critical$/;"	e	enum:severity_level	file:
+critical	test5.cc	/^	critical$/;"	e	enum:severity_level	file:
+da	overloading.cc	/^		int mo, da, yr;$/;"	m	class:Date	typeref:typename:int	file:
+error	own_logger.cc	/^	error,$/;"	e	enum:severity_level	file:
+error	test5.cc	/^	error,$/;"	e	enum:severity_level	file:
+foo	macro.cc	/^int foo = 5;$/;"	v	typeref:typename:int
+hours	operator_overload.h	/^		int hours;$/;"	m	class:Time	typeref:typename:int
+init	test1.cc	/^void init()$/;"	f	typeref:typename:void
+init	test2.cc	/^void init()$/;"	f	typeref:typename:void
+init	test3.cc	/^void init()$/;"	f	typeref:typename:void
+init	test5.cc	/^void init()$/;"	f	typeref:typename:void
+init	test6.cc	/^void init()$/;"	f	typeref:typename:void
+logging_function	own_logger.cc	/^void logging_function()$/;"	f
+logging_function	test5.cc	/^void logging_function()$/;"	f
+logging_function1	test4.cc	/^void logging_function1()$/;"	f	typeref:typename:void
+logging_function2	test4.cc	/^void logging_function2()$/;"	f	typeref:typename:void
+main	macro.cc	/^int main() {$/;"	f	typeref:typename:int
+main	overloading.cc	/^int main()$/;"	f	typeref:typename:int
+main	runtime.cc	/^int main()$/;"	f	typeref:typename:int
+main	test1.cc	/^int main(int, char*[])$/;"	f	typeref:typename:int
+main	test2.cc	/^int main(int, char*[])$/;"	f	typeref:typename:int
+main	test3.cc	/^int main(int, char*[])$/;"	f	typeref:typename:int
+main	test4.cc	/^int main(int, char*[])$/;"	f	typeref:typename:int
+main	test5.cc	/^int main(int, char*[])$/;"	f	typeref:typename:int
+main	test6.cc	/^int main(int, char*[])$/;"	f	typeref:typename:int
+main	test7.cc	/^int main()$/;"	f	typeref:typename:int
+main	usetime1.cc	/^int main()$/;"	f	typeref:typename:int
+minutes	operator_overload.h	/^		int minutes;$/;"	m	class:Time	typeref:typename:int
+mo	overloading.cc	/^		int mo, da, yr;$/;"	m	class:Date	typeref:typename:int	file:
+name_scope_logging	test5.cc	/^void name_scope_logging()$/;"	f	typeref:typename:void
+normal	own_logger.cc	/^	normal,$/;"	e	enum:severity_level	file:
+normal	test5.cc	/^	normal,$/;"	e	enum:severity_level	file:
+notification	own_logger.cc	/^	notification,$/;"	e	enum:severity_level	file:
+notification	test5.cc	/^	notification,$/;"	e	enum:severity_level	file:
+operator +	operator_overload.cc	/^Time Time::operator+(const Time& t) const$/;"	f	class:Time	typeref:typename:Time
+operator <<	overloading.cc	/^ostream& operator<<(ostream& os, const Date& dt)$/;"	f	typeref:typename:ostream &
+operator <<	test5.cc	/^std::ostream& operator<<(std::ostream& strm, severity_level level)$/;"	f	typeref:typename:std::ostream &
+severity_level	own_logger.cc	/^enum severity_level$/;"	g	file:
+severity_level	test5.cc	/^enum severity_level$/;"	g	file:
+tagged_logging	test5.cc	/^void tagged_logging()$/;"	f	typeref:typename:void
+text_sink	test3.cc	/^	typedef sinks::synchronous_sink<sinks::text_ostream_backend> text_sink;$/;"	t	function:init	typeref:typename:sinks::synchronous_sink<sinks::text_ostream_backend>	file:
+text_sink	test5.cc	/^	typedef sinks::synchronous_sink<sinks::text_ostream_backend> text_sink;$/;"	t	function:init	typeref:typename:sinks::synchronous_sink<sinks::text_ostream_backend>	file:
+timed_logging	test5.cc	/^void timed_logging()$/;"	f	typeref:typename:void
+warning	own_logger.cc	/^	warning,$/;"	e	enum:severity_level	file:
+warning	test5.cc	/^	warning,$/;"	e	enum:severity_level	file:
+yr	overloading.cc	/^		int mo, da, yr;$/;"	m	class:Date	typeref:typename:int	file:
